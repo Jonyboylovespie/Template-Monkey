@@ -11,6 +11,7 @@ namespace TemplateMonkey.Upgrades.BottomPath
         public override int Path => BOTTOM;
         public override int Tier => 3;
         public override int Cost => 0;
+        public override string DisplayName => "";
         public override string Description => "";
         public override string Portrait => "";
         public override void ApplyUpgrade(TowerModel tower)
