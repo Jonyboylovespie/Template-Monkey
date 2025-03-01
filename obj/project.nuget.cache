@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYpT+eVmozR1l8IVbaVqXEdmKcGI814b46NVkCk9E/fPMQyEukq6XS/dpxhfFYPKZF16YM4sIUKjbmU6msjCzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonat\\My Drive\\repos\\TemplateMonkey\\TemplateMonkey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

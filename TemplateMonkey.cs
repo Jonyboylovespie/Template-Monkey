@@ -1,13 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using BTD_Mod_Helper;
-using Il2CppAssets.Scripts.Models.Towers;
-using Il2CppAssets.Scripts.Models.TowerSets;
-using BTD_Mod_Helper.Api.Enums;
-using BTD_Mod_Helper.Api.Towers;
-using BTD_Mod_Helper.Extensions;
-
-namespace TemplateMonkey
+﻿namespace TemplateMonkey
 {
     public class TemplateMonkey : ModTower
     {

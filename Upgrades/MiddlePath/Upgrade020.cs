@@ -1,9 +1,4 @@
-﻿using Il2CppAssets.Scripts.Models.Towers;
-using BTD_Mod_Helper.Api.Towers;
-using BTD_Mod_Helper.Extensions;
-using Il2Cpp;
-
-namespace TemplateMonkey.Upgrades.MiddlePath
+﻿namespace TemplateMonkey.Upgrades.MiddlePath
 {
     public class Upgrade020 : ModUpgrade<TemplateMonkey>
     {

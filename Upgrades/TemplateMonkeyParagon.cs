@@ -1,7 +1,4 @@
-﻿using Il2CppAssets.Scripts.Models.Towers;
-using BTD_Mod_Helper.Api.Towers;
-
-namespace TemplateMonkey.Upgrades
+﻿namespace TemplateMonkey.Upgrades
 {
     public class TemplateMonkeyParagon : ModParagonUpgrade<TemplateMonkey>
     {
