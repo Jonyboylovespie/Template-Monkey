@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemplateMonkey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f4ba961ecc42b65331ff57acb92d2c1d770fdb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0816decd93f942393c47622477625dbe1cc10414")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemplateMonkey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemplateMonkey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

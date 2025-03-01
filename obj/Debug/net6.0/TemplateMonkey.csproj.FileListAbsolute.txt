@@ -1,0 +1,11 @@
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\bin\Debug\net6.0\TemplateMonkey.deps.json
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\bin\Debug\net6.0\TemplateMonkey.dll
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\obj\Debug\net6.0\TemplateMonkey.csproj.AssemblyReference.cache
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\obj\Debug\net6.0\TemplateMonkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\obj\Debug\net6.0\TemplateMonkey.AssemblyInfoInputs.cache
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\obj\Debug\net6.0\TemplateMonkey.AssemblyInfo.cs
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\obj\Debug\net6.0\TemplateMonkey.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\obj\Debug\net6.0\TemplateMonkey.sourcelink.json
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\obj\Debug\net6.0\TemplateMonkey.dll
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\obj\Debug\net6.0\refint\TemplateMonkey.dll
+C:\Users\Jonat\My Drive\repos\TemplateMonkey\obj\Debug\net6.0\ref\TemplateMonkey.dll
