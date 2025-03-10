@@ -2,7 +2,7 @@
 {
     public static class ModHelperData
     {
-        public const string WorksOnVersion = "1.0";
+        public const string WorksOnVersion = "GameVersion";
         public const string Version = "1.0.0";
         public const string Name = "Template Monkey";
         public const string Description =
