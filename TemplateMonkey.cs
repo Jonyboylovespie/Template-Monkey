@@ -9,7 +9,6 @@
         public override int MiddlePathUpgrades => 5;
         public override int BottomPathUpgrades => 5;
         public override string Description => "";
-        public override ParagonMode ParagonMode => ParagonMode.Base555;
         public override void ModifyBaseTowerModel(TowerModel towerModel)
         {
             
