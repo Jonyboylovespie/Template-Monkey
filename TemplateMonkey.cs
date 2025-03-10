@@ -8,10 +8,10 @@
         public override int TopPathUpgrades => 5;
         public override int MiddlePathUpgrades => 5;
         public override int BottomPathUpgrades => 5;
-        public override string Description => "";
+        public override string Description => "BaseDescription";
         public override void ModifyBaseTowerModel(TowerModel towerModel)
         {
-            
+            // Code here
         }
         public override bool IsValidCrosspath(int[] tiers) =>
             ModHelper.HasMod("UltimateCrosspathing") || base.IsValidCrosspath(tiers);
